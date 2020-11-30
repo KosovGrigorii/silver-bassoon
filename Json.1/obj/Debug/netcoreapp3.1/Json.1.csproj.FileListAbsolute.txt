@@ -1,0 +1,12 @@
+/Users/grigorijkosov/Projects/OPD_CHALLENGE/Json.1/Json.1/obj/Debug/netcoreapp3.1/Json.1.csprojAssemblyReference.cache
+/Users/grigorijkosov/Projects/OPD_CHALLENGE/Json.1/Json.1/obj/Debug/netcoreapp3.1/Json.1.AssemblyInfoInputs.cache
+/Users/grigorijkosov/Projects/OPD_CHALLENGE/Json.1/Json.1/obj/Debug/netcoreapp3.1/Json.1.AssemblyInfo.cs
+/Users/grigorijkosov/Projects/OPD_CHALLENGE/Json.1/Json.1/obj/Debug/netcoreapp3.1/Json.1.csproj.CoreCompileInputs.cache
+/Users/grigorijkosov/Projects/OPD_CHALLENGE/Json.1/Json.1/bin/Debug/netcoreapp3.1/Json.1.deps.json
+/Users/grigorijkosov/Projects/OPD_CHALLENGE/Json.1/Json.1/bin/Debug/netcoreapp3.1/Json.1.runtimeconfig.json
+/Users/grigorijkosov/Projects/OPD_CHALLENGE/Json.1/Json.1/bin/Debug/netcoreapp3.1/Json.1.runtimeconfig.dev.json
+/Users/grigorijkosov/Projects/OPD_CHALLENGE/Json.1/Json.1/bin/Debug/netcoreapp3.1/Json.1.dll
+/Users/grigorijkosov/Projects/OPD_CHALLENGE/Json.1/Json.1/bin/Debug/netcoreapp3.1/Json.1.pdb
+/Users/grigorijkosov/Projects/OPD_CHALLENGE/Json.1/Json.1/obj/Debug/netcoreapp3.1/Json.1.dll
+/Users/grigorijkosov/Projects/OPD_CHALLENGE/Json.1/Json.1/obj/Debug/netcoreapp3.1/Json.1.pdb
+/Users/grigorijkosov/Projects/OPD_CHALLENGE/Json.1/Json.1/obj/Debug/netcoreapp3.1/Json.1.genruntimeconfig.cache
